@@ -1,2 +1,2 @@
 # Space-Invader
- Space Invaders part 1
+ Space Invaders part 2
